@@ -13,5 +13,25 @@ Proyecto desarrollado en Java utilizando Gradle.
 - app/src/test/java/practica4 → Pruebas
 =======
 # Practica_4
-Practica sobre las pruebas unitarias
+Este es el documento markdown, README.ms donde vienen las instrucciones de ejecución y descripción de programa.
+
+
+Instrucciones de Ejecución
+
+Los programas para ejecutar se encuentran en /app/src/main/java/practica4/
+Aquí encuentras los programas que componen la práctica. 
+Catalogo.java
+Pelicula.java
+Main.java
+Complia estos archivos, en el archivo Main.java, este es el que quieres correr para correr todos los programas.
+
+Pruebas unitarias
+En la ruta:/app/src/test/java/practica4
+Contiene los archivos:
+CatalogoTest.java
+PeliculaTest.java
+MainTest.java
+
+Aqui esta los archivos para realizar las pruebas unitarias del programa. 
+
 
