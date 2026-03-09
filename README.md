@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Practica 4 - Catálogo de Películas 🎬
 
 Proyecto desarrollado en Java utilizando Gradle.
@@ -10,3 +11,7 @@ Proyecto desarrollado en Java utilizando Gradle.
 
 - app/src/main/java/practica4 → Código fuente
 - app/src/test/java/practica4 → Pruebas
+=======
+# Practica_4
+Practica sobre las pruebas unitarias
+
