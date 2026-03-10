@@ -84,7 +84,7 @@ public class Catalogo {
     /*
      * @return la cantidad de pliculas que se encuentran en el arrgelo
      */
-    public int cantidadPleiculas() {
+    public int cantidadPeliculas() {
         return peliculas.size();
     }
 }
