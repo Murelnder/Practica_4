@@ -84,7 +84,11 @@ public class Catalogo {
     /*
      * @return la cantidad de pliculas que se encuentran en el arrgelo
      */
+<<<<<<< HEAD
     public int cantidadPeliculas() {
+=======
+    public int cantidadPleiculas() {
+>>>>>>> 384fc99360fb8e88fc5f061f7456c48fc3e2265f
         return peliculas.size();
     }
 }
